@@ -8,3 +8,4 @@ VirtualBox+Ubuntu下SIR的数据集Siemens和space的操作步骤。
 两个bash的shell程序：
 I，buildexe.origin.sh和buildexe.sh 将object各版本程序编译为.exe文件
 II,getcovs.origin.sh和getcovs.sh   在object各版本.exe上执行所有测试用例，并记录程序输出结果和代码覆盖情况。
+原始数据来自Software-artifact Infrastructure Repository(https://sir.csc.ncsu.edu/portal/index.php)。
